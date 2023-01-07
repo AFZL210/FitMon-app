@@ -3,13 +3,9 @@
 
 Your Live Digital Yoga Mentor Powered by Mediapipe
 
+![LOGO](https://raw.githubusercontent.com/AFZL210/FitMon-app/main/src/media/logoo.jpg)
 
-## Features
 
-- Live Pose Detection and Guidence with voice output
-- Affordable & easy to use
-- Practice and train on the go
-- Cross platform
 
 
 ## Demo
@@ -26,6 +22,14 @@ Your Live Digital Yoga Mentor Powered by Mediapipe
 
 ![App Screenshot](https://raw.githubusercontent.com/AFZL210/FitMon-app/main/src/media/two.jpg)
 
+
+
+## Features
+
+- Live Pose Detection and Guidence with voice output
+- Affordable & easy to use
+- Practice and train on the go
+- Cross platform
 
 ## Tech Stack
 
