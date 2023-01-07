@@ -15,12 +15,15 @@ Your Live Digital Fitness Mentor Powered by Mediapipe [Checkout FitMon](https://
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/AFZL210/FitMon-app/main/src/media/cover.jpg)
+![App Screenshot](https://raw.githubusercontent.com/AFZL210/FitMon-app/main/src/media/Dashboard%20Image.png)
+
+
 
 
 
 
 ![App Screenshot](https://raw.githubusercontent.com/AFZL210/FitMon-app/main/src/media/two.jpg)
+![App Screenshot](https://raw.githubusercontent.com/AFZL210/FitMon-app/main/src/media/WeekData%20Image.png)
 
 
 
