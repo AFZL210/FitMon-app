@@ -9,6 +9,8 @@ Your Live Digital Fitness Mentor Powered by Mediapipe [Checkout FitMon](https://
 
 
 ## Demo
+Only count and display the valid reps.
+Time start and increases only when user is in right position(not when user click "Start Exercise")
 
 ![](https://raw.githubusercontent.com/AFZL210/FitMon-app/main/src/media/brandIcons/ezgif.com-gif-maker.gif)
 
