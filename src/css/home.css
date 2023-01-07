@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.home-container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    background-color: #F5F7FB;
+    position: relative;
+}
+
+.sidebar-container{
+    position: absolute;
+    top: 20%;
+}
+
+.profile_avatar{
+    position: absolute;
+    width: 3rem;
+    bottom: 2rem;
+    left: 1.2rem;
+    transition: 0.2s ease-in-out;
+}
+
+.profile_avatar:hover{
+    width: 3.2rem;
+}

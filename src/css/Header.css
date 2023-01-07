@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins';
+}
+
+.navbar{
+    height: 4rem;
+    padding-left: 2rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 4rem;
+}
+
+.icon{
+    width: 2.6rem;
+}
+
+.greet-title{
+    font-size: 2rem;
+    opacity: 90%;
+    color: #222222;
+}
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.summ{
+    font-size: 0.78rem;
+    color: #222222;
+    opacity: 82%;
+    font-weight: 500;
+}

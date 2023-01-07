@@ -1,0 +1,140 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.left-row{
+    width: 50vw;
+    height: 100vh;
+    background-color: #f2f2f2;
+}
+
+.right-row{
+    width: 50vw;
+    height: 100%;
+    background-color: rgba(205,238,255,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.avatar-right{
+    height: 200px;
+
+}
+
+.left-row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* padding-top:  */
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    text-align: center;
+    font-size: 12px
+}
+a:link { text-decoration: none; }
+
+.input-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-conainer{
+    margin: 30px;
+}
+
+
+
+.logo-holder{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.logo{
+    height: 40px;
+}
+
+input{
+    margin-top: 15px;
+    width: 240px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+/* input[type=email] {
+    padding-left: 30px;
+    background: url("https://raw.githubusercontent.com/AFZL210/FitMon/media/images/mail.png") no-repeat left;
+    background-size: 20px;
+}
+
+input[type=password] {
+    padding-left: 30px;
+    background: url("https://github.com/AFZL210/FitMon/blob/media/images/padlock.png?raw=true") no-repeat left;
+    background-size: 20px;
+    
+} */
+
+input[type=text] {
+    padding-left: 30px;
+    background: url("https://raw.githubusercontent.com/AFZL210/FitMon/media/images/user.png") no-repeat left;
+    background-size: 20px;
+    
+}
+.input-container i{
+    margin-top: 26px;
+    margin-left: 8px;
+    position: absolute;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+button{
+    margin-top: 25px;
+    font-size: 18px;
+    color:#fff;
+    width: 155px;
+    height: 40px;
+    background-color: #ac00e6;
+    font-weight: 600;
+    border-radius: 8px;
+}
+
+button:hover{
+    background-color: #424c52;
+    color: rgb(255, 199, 47);
+}
+.reset-container{
+    display:flex;
+    height: 20px;
+    margin-top: 5px;
+    font-size: 12px;
+    align-content: space-between;
+  /* text-align: start; */
+  text-decoration: none;
+}
+.forgot-password{
+    width:50%;
+    display: flex;
+    justify-content: flex-end;
+}
+.create-account{
+    width:50%;
+    display: flex;
+}
+.login-head{
+  text-decoration: underline;
+  -webkit-text-decoration-color: purple;
+  text-decoration-color: purple;
+}
