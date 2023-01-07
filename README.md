@@ -1,1 +1,1 @@
-# FitMon-app
+# FitMon
