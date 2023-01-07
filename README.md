@@ -1,7 +1,7 @@
 
 # FitMon
 
-Your Live Digital Yoga Mentor Powered by Mediapipe
+Your Live Digital Fitness Mentor Powered by Mediapipe
 
 ![LOGO](https://raw.githubusercontent.com/AFZL210/FitMon-app/main/src/media/logoo.jpg)
 
