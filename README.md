@@ -18,7 +18,7 @@ Time start and increases only when user is in right position(not when user click
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/AFZL210/FitMon-app/main/src/media/Dashboard%20Image.png)
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/wqPwWapu9sc/0.jpg)](http://www.youtube.com/watch?v=wqPwWapu9sc "Video Title")
 
 
 
