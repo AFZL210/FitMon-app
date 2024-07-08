@@ -1,0 +1,33 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server for fitmon web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFZL210/FitMon.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "AFZAL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AFZL210/FitMon/issues"
+  },
+  "homepage": "https://github.com/AFZL210/FitMon#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.20"
+  }
+}
